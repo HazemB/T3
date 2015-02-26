@@ -5,7 +5,7 @@
 //  Created by Developer on 15-02-26.
 //  Copyright (c) 2015 hazem_test. All rights reserved.
 //
-//TO TEST WHETHER GITHUB WORKS AS INTENDED
+//TO TEST COMMIT WITHOUT PUSH
 
 #import "AppDelegate.h"
 
